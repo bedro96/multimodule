@@ -5,6 +5,12 @@
 *.tfstate
 *.tfstate.*
 
+# .tfplan files
+*.tfplan
+
+# id_rsa file
+id_rsa
+
 # Crash log files
 crash.log
 
